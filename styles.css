@@ -1,6 +1,6 @@
 body {
-    background: linear-gradient(#ffb6c2, #FBE7C6) ;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(#ffb6c2, #FBE7C6);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
@@ -10,7 +10,9 @@ h1 {
     font-size: 80px;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid #000;
     border-radius: 5px;
     margin-left: auto;
@@ -22,14 +24,15 @@ h2 {
     text-align: center;
 }
 
-th { 
-   text-align: center;
-   background-color: #91f0d0;
-   font-size: large;
+th {
+    text-align: center;
+    background-color: #91f0d0;
+    font-size: large;
 }
 
 td {
     background-color: #f3b7d5;
+    padding: 5px;
 }
 
 code {
